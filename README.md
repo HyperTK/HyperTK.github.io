@@ -1,5 +1,8 @@
 # hypertk.github.io
 
+## Auto Deploy
+github Actions
+
 ## Project setup
 ```
 npm install
