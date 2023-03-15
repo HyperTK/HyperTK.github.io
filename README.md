@@ -1,7 +1,7 @@
 # hypertk.github.io
 
 ## Auto Deploy
-github Actions
+github Actions.
 
 ## Project setup
 ```
